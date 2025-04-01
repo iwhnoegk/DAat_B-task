@@ -120,7 +120,13 @@ WHERE
 > 쿼리 작성 시에는 FROM WHERE SELECT 순으로 !!
 > 
 > 이를 위한 생산성 도구 ? ** Espanso **
- 
+
+
+---
+
+![image](https://github.com/user-attachments/assets/e5c31c8b-fd78-47e1-af25-e71b45e4367c)
+
+![image](https://github.com/user-attachments/assets/7c72de51-619a-4289-a64c-09b7f0bc25d9)
 
 
 
